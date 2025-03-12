@@ -2,8 +2,7 @@
 
 **SmartControlwithLLM** is a PID control design tool integrated with LLM. This project aims to perform optimization and simulation of PID control systems in a GUI-based environment.
 
-![image](https://github.com/user-attachments/assets/10c1f9e6-5e11-4101-acf7-bcbae145888e)
-
+![SmartControlwithLLM Logo](Software_Architecture.png)
 
 ## Features
 
