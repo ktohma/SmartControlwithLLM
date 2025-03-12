@@ -32,4 +32,4 @@ This project is distributed under the MIT License.
 
 ## Support
 
-For any questions, please send an email to support@example.com.
+For any questions, please send an email to kadir.tohma@iste.edu.tr 
