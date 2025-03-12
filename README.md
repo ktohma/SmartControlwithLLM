@@ -4,8 +4,6 @@
 
 ![SmartControlwithLLM Logo](Software_Architecture.png)
 
-![SmartControlwithLLM Logo](screenshot.png)
-
 
 ## Features
 
@@ -30,6 +28,8 @@
 ## Usage
 
 Run the `SmartControlwithLLM.py` file from the terminal or through VS Code. The GUI will launch the PID design process.
+
+![SmartControlwithLLM Logo](screenshot.png)
 
 ## License
 
