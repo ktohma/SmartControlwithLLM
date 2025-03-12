@@ -1,6 +1,6 @@
 # SmartControlwithLLM
 
-**SmartControlwithLLM** is a PID control design tool integrated with LLM. This project aims to perform optimization and simulation of PID control systems in a GUI-based environment.
+**SmartControlwithLLM** is a PID control design tool V1 integrated with LLM. This project aims to perform optimization and simulation of PID control systems in a GUI-based environment.
 
 ![SmartControlwithLLM Logo](Software_Architecture.png)
 
@@ -39,6 +39,15 @@ PID Design Process: Optimization and Real-Time Simulation Interface:
 
 ![SmartControlwithLLM Logo](screenshot2.png)
 
+## All Contributors
+
+Iskenderun Techncal University, Computer Engineering , CS-NLP (Control Systems- Natural Language Processing) working group
+
+Prof. Dr. Celaleddin Yeroglu
+Dr. Kadir Tohma
+Dr. Handan Gursoy Demir
+Dr. Merve Nilay Aydin
+Dr. Halil Ibrahim Okur
 
 ## License
 
