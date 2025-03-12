@@ -31,6 +31,9 @@ Run the `SmartControlwithLLM.py` file from the terminal or through VS Code. The 
 
 ![SmartControlwithLLM Logo](screenshot.png)
 
+![SmartControlwithLLM Logo](screenshot2.png)
+
+![SmartControlwithLLM Logo](screenshot3.png)
 ## License
 
 This project is distributed under the MIT License.
