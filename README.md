@@ -32,8 +32,10 @@ Run the `SmartControlwithLLM.py` file from the terminal or through VS Code. The 
 SmartControl Input Interface and Initial GUI Screen:
 ![SmartControlwithLLM Logo](screenshot.png)
 
+Graphical Analysis of Closed-Loop Step Response:
 ![SmartControlwithLLM Logo](screenshot3.png)
 
+PID Design Process: Optimization and Real-Time Simulation Interface:
 ![SmartControlwithLLM Logo](screenshot2.png)
 
 
