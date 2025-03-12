@@ -4,7 +4,7 @@
 
 PID controllers are essential in control systems, yet traditional tuning methods often lead to issues like overshoot and oscillations; SmartControl overcomes these challenges by using a large language model to convert natural language performance requirements into precise numerical targets, automatically optimizing PID parameters with Particle Swarm Optimization and Differential Evolution, simulating closed-loop step responses, and providing interactive feedback, MATLAB code, and PDF reports for both academic and industrial applications.
 
-Modular Software Architecture of SmartControl and Interaction Between Components:
+#### Modular Software Architecture of SmartControl and Interaction Between Components:
 
 ![SmartControlwithLLM Logo](Software_Architecture.png)
 
@@ -33,13 +33,13 @@ Modular Software Architecture of SmartControl and Interaction Between Components
 
 Run the `SmartControlwithLLM.py` file from the terminal or through VS Code. The GUI will launch the PID design process.
 
-SmartControl Input Interface and Initial GUI Screen:
+#### SmartControl Input Interface and Initial GUI Screen:
 ![SmartControlwithLLM Logo](screenshot.png)
 
-Graphical Analysis of Closed-Loop Step Response:
+#### Graphical Analysis of Closed-Loop Step Response:
 ![SmartControlwithLLM Logo](screenshot3.png)
 
-PID Design Process: Optimization and Real-Time Simulation Interface:
+#### PID Design Process: Optimization and Real-Time Simulation Interface:
 
 ![SmartControlwithLLM Logo](screenshot2.png)
 
