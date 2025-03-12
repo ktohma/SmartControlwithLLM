@@ -44,9 +44,13 @@ PID Design Process: Optimization and Real-Time Simulation Interface:
 Iskenderun Techncal University, Computer Engineering , CS-NLP (Control Systems- Natural Language Processing) working group
 
 Prof. Dr. Celaleddin Yeroglu
+
 Dr. Kadir Tohma
+
 Dr. Handan Gursoy Demir
+
 Dr. Merve Nilay Aydin
+
 Dr. Halil Ibrahim Okur
 
 ## License
