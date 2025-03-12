@@ -4,6 +4,9 @@
 
 ![SmartControlwithLLM Logo](Software_Architecture.png)
 
+![SmartControlwithLLM Logo](screenshot.png)
+
+
 ## Features
 
 - PID control design
