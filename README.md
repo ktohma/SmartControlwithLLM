@@ -19,7 +19,7 @@
    pip install -r requirements.txt
    
 3. Create a `.env` file in the project's root directory and add your API key:
-   OPENAI_API_KEY=Kendi_API_Anahtarınızı_Buraya_Yazın
+   OPENAI_API_KEY=Your_API_Key_Here
 
 
 ## Usage
