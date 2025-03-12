@@ -29,9 +29,8 @@
 
 Run the `SmartControlwithLLM.py` file from the terminal or through VS Code. The GUI will launch the PID design process.
 
+SmartControl Input Interface and Initial GUI Screen:
 ![SmartControlwithLLM Logo](screenshot.png)
-
-SmartControl Input Interface and Initial GUI Screen
 
 ![SmartControlwithLLM Logo](screenshot3.png)
 
