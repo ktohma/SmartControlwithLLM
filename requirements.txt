@@ -1,0 +1,8 @@
+numpy
+matplotlib
+control
+openai
+scipy
+Pillow
+reportlab
+python-dotenv
