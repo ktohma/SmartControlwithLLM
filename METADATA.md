@@ -12,4 +12,4 @@ Aşağıdaki tablo, bu kod sürümü ve projenin diğer bilgileri hakkında ek v
 | C6  | Software code languages, tools and services used                       | Python, Tkinter, matplotlib, control, openai, reportlab, python-dotenv |
 | C7  | Compilation requirements, operating environments and dependencies      | Python 3.x, pip                                        |
 | C8  | If available, link to developer documentation/manual                   | N/A                                                    |
-| C9  | Support email for questions                                            | support@example.com                                    |
+| C9  | Support email for questions                                            | kadir.tohma@iste.edu.tr                                   |
