@@ -31,7 +31,19 @@ PID controllers are essential in control systems, yet traditional tuning methods
 
 ## Usage
 
-Run the `SmartControlwithLLM.py` file from the terminal or through VS Code. The GUI will launch the PID design process.
+Run the `SmartControlwithLLM Revise.py` file from the terminal or through VS Code. The GUI will launch the PID design process.
+
+## Standalone Executable
+
+As of version 1, we’ve packaged our application as a single SmartControlWithLLM.exe that runs directly on Windows x64 (64-bit versions of Windows 7, 8.1, 10, and 11). Thanks to PyInstaller, the MSVC runtime is embedded; aside from the rare case where the Microsoft Visual C++ Redistributable must be installed (usually already included in Windows 10/11), no additional dependencies are required. Separate builds for other operating systems (32-bit Windows, macOS, Linux) will be provided in future releases.
+
+To run:
+
+Download SmartControlWithLLM.exe from the Releases section on GitHub and place it in your project root next to your .env file.
+
+Ensure your .env file contains a valid OPENAI_API_KEY.
+
+Double-click SmartControlWithLLM.exe—no extra Python or runtime installation needed.
 
 #### SmartControl Input Interface and Initial GUI Screen:
 ![SmartControlwithLLM Logo](screenshot.png)
