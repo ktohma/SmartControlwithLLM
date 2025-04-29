@@ -39,11 +39,11 @@ As of version 1, we’ve packaged our application as a single SmartControlWithLL
 
 To run:
 
-Download SmartControlWithLLM.exe from the Releases section on GitHub and place it in your project root next to your .env file.
+1. Download SmartControlWithLLM.exe from the Releases section on GitHub and place it in your project root next to your .env file.
 
-Ensure your .env file contains a valid OPENAI_API_KEY.
+2. Ensure your .env file contains a valid OPENAI_API_KEY.
 
-Double-click SmartControlWithLLM.exe—no extra Python or runtime installation needed.
+3. Double-click SmartControlWithLLM.exe—no extra Python or runtime installation needed.
 
 #### SmartControl Input Interface and Initial GUI Screen:
 ![SmartControlwithLLM Logo](screenshot.png)
